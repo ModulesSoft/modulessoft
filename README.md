@@ -11,11 +11,9 @@
 
 <!-- ___ -->
 <p align="left">
-I'm all about the WEB! 
+I blend art and software and turn it into the web❗
 <br/>
-<br/>
-While I usually groove with JavaScript, I've been known to PHP it up in the backend, 
-cause gotta keep those software engineer vibes cost-effective, you know? 😜
+While I usually groove with JavaScript, I've been known to write PHP for the backend, since I consider costs as an engineer❗😜
 </p>
 
 <h1 align="left">Skils:</h1>
@@ -39,7 +37,6 @@ cause gotta keep those software engineer vibes cost-effective, you know? 😜
 <h1 align="left">Homepage:</h1>
 <p align="left">
 Let me introduce you to a unique homepage you've probably never seen before❗
-</br>
 </br>
 Remember, you just need to <b>scroll all the way down the page</b>:
 </br>
