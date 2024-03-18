@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-![Yousef Fatouraee](youseffatouraee.svg)
+![Yousef Fatouraee](gitartwork.svg)
  
 <h1 align="left">About me:</h1>
 
