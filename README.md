@@ -2,7 +2,6 @@
 
 <h3 align="center">Full-stack JavaScript & PHP Web Application Developer</h3>
 
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferasbbm&theme=dark" alt="ferasbbm" /></p>-->
 <br/>
 <div align="center">
 
@@ -11,12 +10,13 @@
 <h1 align="left">About me:</h1>
 
 <!-- ___ -->
-
+<p align="left">
 I'm all about the WEB! 
-
-While I usually groove with JavaScript, I've been known to PHP it up in the backend. 
-
-Gotta keep those software engineer vibes cost-effective, you know? 😜
+<br/>
+<br/>
+While I usually groove with JavaScript, I've been known to PHP it up in the backend, 
+cause gotta keep those software engineer vibes cost-effective, you know? 😜
+</p>
 
 <h1 align="left">Skils:</h1>
 
@@ -37,6 +37,11 @@ Gotta keep those software engineer vibes cost-effective, you know? 😜
 
 
 <h1 align="left">Homepage:</h1>
-Learn more at <a href="https://youseffatouraee.com">youseffatouraee.com</a>. You just need to scroll all the way down the page❗
-
-Have you ever seen a website like this before❓❗
+<p align="left">
+Let me introduce you to a unique homepage you've probably never seen before❗
+</br>
+</br>
+Remember, you just need to <b>scroll all the way down the page</b>:
+</br>
+<a href="https://youseffatouraee.com">YousefFatouraee.com</a>
+</p>
