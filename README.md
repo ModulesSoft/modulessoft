@@ -36,9 +36,7 @@ While I usually groove with JavaScript, I've been known to write PHP for the bac
 
 <h1 align="left">Homepage:</h1>
 <p align="left">
-Let me introduce you to a unique homepage you've probably never seen before❗
-</br>
-Remember, you just need to <b>scroll all the way down the page</b>:
+Let me introduce you to a unique homepage you've probably never seen before:
 </br>
 <a href="https://youseffatouraee.com">YousefFatouraee.com</a>
 </p>
