@@ -13,7 +13,7 @@
 <p align="left">
 I blend art and software and turn it into the web❗
 <br/>
-While I usually groove with JavaScript, I've been known to write PHP for the backend, since I consider costs as an engineer❗😜
+While I usually groove with JavaScript, I've been known to write PHP for the backend, since I consider costs as an engineer. 😜
 </p>
 
 <h1 align="left">Skils:</h1>
@@ -36,7 +36,7 @@ While I usually groove with JavaScript, I've been known to write PHP for the bac
 
 <h1 align="left">Homepage:</h1>
 <p align="left">
-Let me introduce you to a unique homepage you've probably never seen before:
+A unique homepage you've probably never seen before:
 </br>
 <a href="https://youseffatouraee.com">YousefFatouraee.com</a>
 </p>
