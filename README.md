@@ -16,7 +16,7 @@ I blend art and software and turn it into the web❗
 While I usually groove with JavaScript, I've been known to write PHP as well, since I consider expenses as an engineer. 😜
 </p>
 
-<h1 align="left">Skils:</h1>
+<h1 align="left">Skills:</h1>
 
 
 <!-- ___ -->
