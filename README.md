@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Yousef <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
+<h1 align="center">Welcome<img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 
 <h3 align="center">Full-stack JavaScript & PHP Web Application Developer</h3>
 
