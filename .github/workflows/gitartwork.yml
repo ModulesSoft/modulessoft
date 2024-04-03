@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: modulessoft
             # Text on contribution graph 
-            text: Yousef Fatouraee
+            text: YOUSEF
        - uses: jasineri/simple-push-action@v1
