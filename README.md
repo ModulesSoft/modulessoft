@@ -11,7 +11,7 @@
 
 <!-- ___ -->
 <p align="left">
-I blend art and software and turn them into the web.
+I blend art and software and turn them into the web!
 <br/>
 While I usually groove with JavaScript, I've been known to write PHP as well, since I consider expenses as an engineer. 😜
 </p>
