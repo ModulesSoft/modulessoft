@@ -36,7 +36,7 @@ While I usually groove with JavaScript, I've been known to write PHP as well, si
 
 <h1 align="left">Homepage:</h1>
 <p align="left">
-My very unique homepage:
+My animation homepage:
 </br>
 <a href="https://youseffatouraee.com">youseffatouraee.com</a>
 </p>
