@@ -1,6 +1,6 @@
 <h1 align="center">Welcome<img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 
-<h3 align="center">Full-stack JavaScript & PHP Web Application Developer</h3>
+<h3 align="center">Full-stack Web Application Developer</h3>
 
 <br/>
 <div align="center">
@@ -13,7 +13,7 @@
 <p align="left">
 I blend art and software and turn them into the web!
 <br/>
-While I usually groove with JavaScript, I've been known to write PHP as well, since I consider expenses as an engineer. 😜
+While I usually groove with JavaScript, I've been known to write PHP and Python as well, since I consider expenses as an engineer. 😜
 </p>
 
 <h1 align="left">Skills:</h1>
