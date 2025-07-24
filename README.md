@@ -1,6 +1,6 @@
-<h1>Welcome</h1>
-<p>This is Yousef, I'm a Fullstack Web Application developer.</p>
+<h3>Hi there! 👋</h3>
 <p align="left">
+This is Yousef, I'm a Fullstack Web Application developer.<br>
 I enjoy creative coding, anything JavaScripty, PHP or Python backends, and exploring different types of AI & ML integrations.
 </p>
 <!-- ___ -->
