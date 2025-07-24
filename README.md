@@ -1,6 +1,6 @@
 <h3>Hi there! 👋</h3>
 <p align="left">
-This is Yousef, I'm a Fullstack Web Application developer.<br>
+This is Yousef, I'm a Fullstack Web Application Developer.<br>
 I enjoy creative coding, anything JavaScripty, PHP or Python backends, and implementing different types of AI & ML integrations.
 </p>
 <!-- ___ -->
@@ -8,7 +8,7 @@ I enjoy creative coding, anything JavaScripty, PHP or Python backends, and imple
 
 | Props | Value |
 |--|--|
-| Programming Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)|
+| Programming Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)|
 |Frameworks & Libraries| ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-%2335495e.svg?logo=react&logoColor=%blue) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jQuery-%2335495e.svg?logo=jquery&logoColor=%blue) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%230047B3.svg?logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?logo=sass&logoColor=white)| 
 |Tools|![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=000) ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)|
 |Databases|![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F80000?logo=elasticsearch&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)|
