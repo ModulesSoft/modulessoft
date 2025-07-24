@@ -1,19 +1,12 @@
-<h1 align="center">Welcome<img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
+<h2 align="center">Full-stack Web Application Developer</h2>
 
-<h3 align="center">Full-stack Web Application Developer</h3>
-
-<br/>
 <div align="center">
-
-![Yousef Fatouraee](gitartwork.svg)
  
 <h1 align="left">About me:</h1>
 
 <!-- ___ -->
 <p align="left">
-I blend art and software and turn them into the web!
-<br/>
-While I usually groove with JavaScript, I've been known to write PHP and Python as well, since I consider expenses as an engineer. 😜
+I enjoy creative coding, anything JavaScripty, PHP or Python backends, and exploring different types of AI & ML integrations.
 </p>
 
 <h1 align="left">Skills:</h1>
@@ -31,12 +24,3 @@ While I usually groove with JavaScript, I've been known to write PHP and Python 
 |Services & Cloud|![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717svg?logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white) ![OVH](https://img.shields.io/badge/OVH-%23123F6D.svg?logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white)|
 |Platforms| ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)|
 |IDEs| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-143?logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black)|
-
-
-
-<h1 align="left">Homepage:</h1>
-<p align="left">
-My animation homepage:
-</br>
-<a href="https://youseffatouraee.com">youseffatouraee.com</a>
-</p>
