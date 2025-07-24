@@ -1,17 +1,8 @@
-<h2 align="center">Full-stack Web Application Developer</h2>
-
-<div align="center">
- 
-<h1 align="left">About me:</h1>
-
-<!-- ___ -->
+<h1>Welcome</h1>
+<p>This is Yousef, I'm a Fullstack Web Application developer.</p>
 <p align="left">
 I enjoy creative coding, anything JavaScripty, PHP or Python backends, and exploring different types of AI & ML integrations.
 </p>
-
-<h1 align="left">Skills:</h1>
-
-
 <!-- ___ -->
 
 
